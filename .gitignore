@@ -54,3 +54,5 @@ dkms.conf
 .piolibdeps
 .clang_complete
 .gcc-flags.json
+.pioenvs
+.piolibdeps
